@@ -4,13 +4,6 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 0
-    path: Assets/WebXR/Samples/Desert/WebXR.unity
-    guid: 62764e63b9bc64baaaf251014195be42
-  - enabled: 1
-    path: Assets/matt-2.unity
-    guid: bd85cbb4a76db440db6e2eeadcb1f871
+  m_Scenes: []
   m_configObjects:
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0eb19faf96e6a4a97800869a76dd2883,
-      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 16e7f2f148b404ec993cd051e59b8e33, type: 2}
